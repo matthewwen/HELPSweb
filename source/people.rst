@@ -370,12 +370,12 @@ Create datasets of drone video, recognize objects, estimate the sizes.
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UM4QYMK1R-ab6c02aa8446-512
      - `Justin Qualley`
 
-        Leader
+       Leader
 
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019C530LEP-84e277558738-512
      - `Ayden Kocher`
 
-        Co-Leader
+       Co-Leader
 
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01A1PRB3AL-7a046e1fbcef-512
      - `Indraadityan Logamurugan`
@@ -722,6 +722,9 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
 Solar Sail (Camera Project)
 ###########################
 
+.. list-table::
+   :widths: 10 20 10 20
+
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U015SC4P6J0-6470d09a4f65-512
      - `Connor David Proudman`
 
@@ -736,6 +739,9 @@ Solar Sail (Camera Project)
 
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U015C1KGJF9-f86c7860476b-512
      - `Riley Harwood`
+
+     -
+     -
 
 Alumni
 ~~~~~~
