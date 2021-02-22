@@ -413,9 +413,6 @@ Create datasets of drone video, recognize objects, estimate the sizes.
      -
      -
 
-Undergraduate Students and Spring 2020 Teams
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 Program Analysis
 ################
 
